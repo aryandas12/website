@@ -1,0 +1,131 @@
+html{
+    font-size: 100%;
+}
+body{
+    margin: 0px;
+    
+}
+.top-container{
+    text-align: center;
+    
+    
+    
+}
+
+.intro{
+    margin: 0px;
+    position: relative;
+    
+}
+
+.menu{
+    
+    position: absolute;
+    right: 3%;
+    top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    
+
+}
+.tc-image{
+    
+    width: 100%;
+    
+    
+    
+    
+}
+
+
+.intro-section{
+    
+
+    position: absolute;
+    top: 300px;
+    left: 41%;
+   
+    top: 20%;
+    
+    
+
+    
+}
+
+.introfont{
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    color: #440a67;
+    font-size: 70px;
+    
+    
+}
+.welcome{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px ;
+}
+
+.middle-container{
+    background-color: #ffe3fe;
+}
+
+
+.aboutme{
+    text-align: center;
+    
+}
+
+.abouthead{
+    padding: 30px 0px 10px 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    margin: 0px;
+    color: #440a67;
+
+}
+
+.ppic{
+    width: 8%;
+    margin: 0;
+    border-radius: 40%;
+}
+
+.ppic:hover{
+content: url('https://www.flaticon.com/svg/vstatic/svg/3870/3870396.svg?token=exp=1617094714~hmac=1ab98c24c66430fe1226bd87508d2aef');
+}
+    
+
+.about{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    font-size: medium;
+    
+}
+
+.profiles{
+    margin: auto;
+    padding: 10px 0px;
+    display: inline-block;
+    
+    
+}
+
+.handles{
+    width: 4%;
+
+    margin: 40px 20px 40px 20px;
+
+    
+    
+}
+
+#fb:hover{
+    
+    content:url('https://www.flaticon.com/svg/vstatic/svg/4406/4406235.svg?token=exp=1617094794~hmac=0d7cbb2041f8dff886c4d68747f5302c')
+}
+#ig:hover{
+    content: url('https://www.flaticon.com/svg/vstatic/svg/185/185985.svg?token=exp=1617094923~hmac=d6fee8f3812507fc3e1cdc4269e1cd4f');
+}
+#ln:hover{
+    content: url('https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617095014~hmac=97ebe3f242c91189ef7de57e161d8375');
+}
